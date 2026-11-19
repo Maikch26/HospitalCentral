@@ -1,0 +1,7 @@
+config/conexion.php
+.env
+*.log
+*.sql
+*.zip
+.DS_Store
+Thumbs.db
